@@ -40,10 +40,3 @@ Deployment Artifacts
 Dockerfile: For containerizing the application, making it ready for deployment on any platform supporting Docker.
 GitHub Repository
 The repository includes all the necessary files, with a detailed commit history reflecting the development process. The README.md in the repository provides an overview and setup instructions as described above.
-
-Deployment Links
-Application URL: Mood for Music App (Placeholder link as the actual deployment would need to be performed on your hosting service.)
-Final Review
-Before submission, I'd run through the entire setup once more to ensure everything works as expected and is clearly documented. This review also includes ensuring all links and paths in the documentation are correct and functional.
-
-This package should provide a comprehensive, ready-to-submit capstone project that meets all the specified requirements and is structured for easy evaluation. If you need any specific adjustments or additional elements, please let me know!
